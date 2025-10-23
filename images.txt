@@ -1,2 +1,2 @@
 # registry.cn-hangzhou.aliyuncs.com/ossrs/oryx:v5.14.15
-jellyfin:1.2.14
+jellyfin/jellyfin:1.2.14
